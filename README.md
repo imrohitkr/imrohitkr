@@ -9,10 +9,10 @@
 ##### **<div align="center">A passionate fullstack developer from India</div>**  
   
 
-- 👨‍🎓 Bachelor of engineering in Information Technology  
+- 👨‍🎓 Bachelor of Engineering(Information Technology) 
   
 
-- ⛳ I'm currently learning NextJS,Reactjs & Cyber Security 👨‍🎓  
+- ⛳ I'm currently learning NextJS,Reactjs & Cyber Security   
   
 
 - 💬Ask me about anything, I am happy to help  
