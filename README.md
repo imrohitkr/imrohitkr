@@ -6,7 +6,7 @@
 # ***<ins><div align="center">Hi 👋, I'm Rohit Kumar</div></ins>***  
   
 
-##### **<div align="center"> <h4>A passionate fullstack developer from India</h4></div>**  
+##### **<div align="center">A passionate fullstack developer from India</div>**  
   
 
 - 👨‍🎓 Bachelor of Engineering(Information Technology) 
